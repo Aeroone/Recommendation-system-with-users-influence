@@ -10,6 +10,7 @@ visualization GUI is also be designed. You can check "method.pdf" for details.
 There are mainly two parts, and the detail information are as follow:
 
 HAC community detection (contians the community detection algorithm):
+
 This is the HAC program to find the communities in a graph. Given the 'pair.txt' file, which
 contains pairs of users review the same restaurant. The algorithm can find the communities 
 cooresponding to some stoping cretirias. There are many parameters to be choosen to find the 
@@ -18,6 +19,7 @@ command line $python HAC.py . The final cluster will be written as a dict, and o
 It takes some time to finish.
 
 Recommender system and UI design (contains the recommender system and user interface GUI):
+
 The user interface part is written in Python based on PyQt4 platform. And another necessay package 
 for this application is yaml for parsing json files. You can install it by typing 'pip install pyyaml'. After 
 installing these two libraries, you can use 'python ./src/yelp_ui_pyqt4.py' to run the GUI. Then in the application
