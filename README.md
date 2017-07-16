@@ -28,7 +28,7 @@ user ID is in the txt file 'user_id'. You can also use the restaurant name, star
 filter the output results. The visualization results of the community and word cloud are also shown in the 
 GUI. 
 
-Community detection visualization:
+Community detection and visualization:
 
 ![image](https://github.com/Aeroone/Recommendation-system-with-users-influence/blob/master/graphs/community.png)
 ![image](https://github.com/Aeroone/Recommendation-system-with-users-influence/blob/master/graphs/13916lay1.png)
