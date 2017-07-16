@@ -33,7 +33,7 @@ Community detection visualization:
 ![image](https://github.com/Aeroone/Recommendation-system-with-users-influence/blob/master/graphs/community.png)
 ![image](https://github.com/Aeroone/Recommendation-system-with-users-influence/blob/master/graphs/13916lay1.png)
 
-GUI:
+Recommendation and GUI:
 
 ![image](https://github.com/Aeroone/Recommendation-system-with-users-influence/blob/master/graphs/GUI.png)
 
